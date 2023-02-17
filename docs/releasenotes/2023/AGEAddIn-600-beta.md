@@ -1,4 +1,4 @@
-### AnalyticsGate Cloud Reporting
+### AnalyticsGate AddIn
 
 *New Features*
 - New Endpoints
