@@ -3,7 +3,7 @@
 *New Features*
 - Completely redesigned installer
 - Full Microsoft .NET 6 support
-- All application modules have been updated
+- All application dependencies have been updated
 - The ribbon menu structure was revised
 - New menu to list the connections
 - New menu item for direct access to the log file
@@ -14,7 +14,7 @@
 - HTTP/2 protocol support
 - The dialogs were revised
 - New function to transfer pivot tables to flat tables
-- New Chromium browser support for login and chart generation 
+- New Chromium browser engine for login and chart generation 
 - New setting to disable/enable the add columns button
 - New setting to control the dark and light mode
 - New versions will be made available via GitHub in the future
