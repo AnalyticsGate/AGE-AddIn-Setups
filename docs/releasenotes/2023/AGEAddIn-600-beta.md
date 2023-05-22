@@ -28,3 +28,4 @@
 - The number of streams when connecting to Qlik SaaS has been increased
 - When setting filters Excel is frozen
 - General bug fixes to optimize processing
+- Fix insert Varibale from overview
