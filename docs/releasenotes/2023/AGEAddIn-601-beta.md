@@ -12,3 +12,5 @@
 - Ribbon update fails on exit
 - Better support for error message during connection
 - Refresh rendered images in the context menu
+- Better support for security software
+- Loading the browser default value with a diffrent language from the configuration
