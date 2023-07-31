@@ -7,6 +7,7 @@
 - New "Advanced" section in the settings
 - Better session closing
 - Support of the Property LabelExpression in Measues
+- Note in case of incorrect workbook calculation
   
 *Fixed Bugs*
 - Ribbon update fails on exit
