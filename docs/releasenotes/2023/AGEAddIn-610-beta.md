@@ -15,3 +15,4 @@
 - Refresh rendered images in the context menu
 - Improvements in the use of security software
 - Loading the browser default value with a diffrent language from the configuration
+- Reload content library in reporting preview
