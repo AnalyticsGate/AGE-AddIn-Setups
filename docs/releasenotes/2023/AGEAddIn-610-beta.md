@@ -3,11 +3,10 @@
 *New Features*
 - External browsers can now be supported
 - Better proxy support
-- Support of an optional service for better process communication
 - New "Advanced" section in the settings
+- Improved process communication
 - Better session closing
 - Support of the Property LabelExpression in Measues
-- Note in case of incorrect workbook calculation
   
 *Fixed Bugs*
 - Ribbon update fails on exit
