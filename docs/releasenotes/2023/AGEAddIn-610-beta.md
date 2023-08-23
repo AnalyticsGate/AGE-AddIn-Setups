@@ -7,6 +7,7 @@
 - Improved process communication
 - Better session closing
 - Support of the Property LabelExpression in Measues
+- Anhanced notifications in error cases
   
 *Fixed Bugs*
 - Ribbon update fails on exit
