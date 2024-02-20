@@ -1,4 +1,5 @@
 ### AnalyticsGate AddIn
 
 *New Features*
-- All package dependencies have been updated
+- Dependent packages have been updated
+- New Code Signing Certificate
