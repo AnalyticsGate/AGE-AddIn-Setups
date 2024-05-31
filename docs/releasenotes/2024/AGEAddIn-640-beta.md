@@ -5,4 +5,4 @@
 - Improved hub interface
 
 *Fixed Bugs*
-- Comming Soon...
+- Tag Filter was not working
