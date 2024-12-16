@@ -10,3 +10,4 @@
 - In the hub section the app name is now displayed instead of the GUID
 - Fixed empty item bug when combox box item is changed in section "Qlik Data to Excel"
 - Fixed filter funktion in stream selection
+- The combobox not show the flat tables
