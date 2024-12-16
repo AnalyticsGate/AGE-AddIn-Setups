@@ -1,4 +1,4 @@
-### AnalyticsGate OnPrem Reporting
+### AnalyticsGate AddIn Reporting
 
 *New Features*
 - Updated all included packages
@@ -8,6 +8,6 @@
 *Fixed Bugs*
 - Tag filter was not working
 - In the hub section the app name is now displayed instead of the GUID
-- Fixed empty item bug when combox box item is changed in section "Qlik Data to Excel"
-- Fixed filter funktion in stream selection
-- The combobox not show the flat tables
+- Fixed empty item bug when combobox item is changed in section "Qlik Data to Excel"
+- Fixed filter function in stream selection
+- The combobox did not show the flat tables
