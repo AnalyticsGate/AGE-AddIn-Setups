@@ -5,6 +5,7 @@
 - Migration from .NET6 to .NET4.8 (for compatibility reasons)
 - Added new Qlik CSRF token functionality (since Qlik Sense version "November 2024")
 - New option for replacing cells when loading the template
+- New option to deactivate the thumbnails 
 
 *Fixed Bugs*
 - No updates are found on addin startup
