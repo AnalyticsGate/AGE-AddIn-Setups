@@ -12,3 +12,6 @@
 - Automatic connection to the app fails
 - Load App on startup automatically
 - The version of GitHub was determined incorrectly
+- Load correct qlik app image
+- Correct auto load of the app
+- Auto check of MS Excel instance when installer starts
