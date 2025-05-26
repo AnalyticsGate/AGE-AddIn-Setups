@@ -5,4 +5,4 @@
 *Fixed Bugs*
 - New html color converter
 - Fix for JSON text in websocket api
-- Fix by rendering Images
+- Fix by rendering images
