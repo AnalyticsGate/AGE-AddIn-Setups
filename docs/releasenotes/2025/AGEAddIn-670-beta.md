@@ -1,6 +1,7 @@
-### AnalyticsGate AddIn Reporting
+### AnalyticsGate AddIn
 
-
+*New Features*
+- Updated all included packages
 
 *Fixed Bugs*
 - Apply Button event was not called
