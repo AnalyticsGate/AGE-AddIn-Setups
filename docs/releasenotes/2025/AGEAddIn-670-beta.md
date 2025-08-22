@@ -11,3 +11,4 @@
 - Format error in xml content
 - App images not loading correctly
 - Template crashes when open with images
+- fix for wrong response from qlik
