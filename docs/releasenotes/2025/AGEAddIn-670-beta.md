@@ -2,6 +2,7 @@
 
 *New Features*
 - Updated all included packages
+- New selection functionality (multiple selections)
 
 *Fixed Bugs*
 - Apply button event is not called
