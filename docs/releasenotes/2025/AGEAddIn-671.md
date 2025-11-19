@@ -1,7 +1,8 @@
 ### AnalyticsGate AddIn
 
 *New Features*
-- Disable new Updates
+- Disable new updates in settings
+- Updated packages for all modules
 
 *Fixed Bugs*
 - Fix for senseimage, if images already exist
