@@ -4,6 +4,5 @@
 - New session valiation
 
 *Fixed Bugs*
-- Fix for qlik cloud session connction
-- Fix same null exceptions
-
+- Fix for qlik cloud session connection
+- Fix same null exceptions, when opening the Hub
