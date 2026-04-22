@@ -1,9 +1,9 @@
 ### AnalyticsGate AddIn
 
 *New Features*
-- Update user agents for browsers interaction
-- Update all packages
+- Updated user agents for browser interaction
+- Updated all packages
 
 *Fixed Bugs*
-- Fix multiple connections with wrong connection settings
-- Fix formula calculation process in UI
+- Fixed multiple connections with wrong connection settings
+- Fixed formula calculation process in UI
